@@ -1,0 +1,8 @@
+prefix=C:/Users/JP/catkin_ws/devel
+
+Name: beginner_tutorials
+Description: Description of beginner_tutorials
+Version: 0.0.0
+Cflags: -IC:/Users/JP/catkin_ws/devel/include
+Libs: -LC:/Users/JP/catkin_ws/devel/lib 
+Requires: message_runtime

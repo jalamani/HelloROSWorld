@@ -1,0 +1,2 @@
+beginner_tutorials
+-DCMAKE_BUILD_TYPE=RelWithDebInfo -DCATKIN_DEVEL_PREFIX=C:\Users\JP\catkin_ws\devel -DCMAKE_INSTALL_PREFIX=C:\Users\JP\catkin_ws\install -G NMake Makefiles
